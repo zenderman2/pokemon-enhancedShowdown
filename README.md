@@ -116,3 +116,4 @@ Licensed under the MIT License - see original project for details.
 
 **Start battling with enhanced control over your team's movepool and strategic item usage!**
 
+(Everything else here is the same as the real Pokémon Showdown, only the `sim` folder has been modified.)
