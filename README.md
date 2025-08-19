@@ -4,7 +4,7 @@ A modified version of [Pokémon Showdown](https://github.com/smogon/pokemon-show
 
 ## 🚀 Installation 
 ```
-git clone https://github.com/zenderman2/pokemon-enhancedShowdown.git
+git clone https://github.com/zenderman2/pokemon-eshowdown.git
 cd pokemon-enhancedShowdown
 npm install
 ```
@@ -48,6 +48,8 @@ const team = "Rapidash|||FlashFire|disable,wildcharge,highhorsepower,flareblitz|
 - Wild Charge: 3 PP Ups → 24 PP (15 base + 15×0.2×3 = 15 + 9)
 - High Horsepower: 3 PP Ups → 16 PP (10 base + 10×0.2×3 = 10 + 6)
 - Flare Blitz: 3 PP Ups → 24 PP (15 base + 15×0.2×3 = 15 + 9)
+
+#### Default PP Ups for each move will be 0
 
 ## 🎮 Item Usage Commands
 
